@@ -508,9 +508,11 @@ color: #ffffff;
     color: #fff;
     cursor: pointer;
     border:none;
+    min-width: 165px;
 }
 
-.footersvg-send-icon {fill: #fff;}
+.footersvg-send-icon {fill: #fff;
+margin-left: 16px;}
 
 .footer-input::placeholder {
 font-family: "Roboto", sans-serif;
