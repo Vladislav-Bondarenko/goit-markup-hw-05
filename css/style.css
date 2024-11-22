@@ -465,9 +465,10 @@ ul {
     margin-bottom: 16px;
 }
 
-.form-all {display: flex;
+.form-footer {display: flex;
     justify-content: center;
     align-items: center;
+    gap: 24px;
 }
 
 .label-email {}
