@@ -618,8 +618,6 @@ font-weight: 400;
     color: #8e8f99;}
 
 .modal-form-wrapper {position: relative;
-    border: 1px solid rgba(46, 47, 66, 0.4);
-        border-radius: 4px;
 }
 
 .input-modal {width: 100%;
